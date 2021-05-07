@@ -195,7 +195,7 @@ for index, row in path.iterrows():
 
                     pe_stop_loss_counter = 1
 
-                    pe_exit_price = pe_stop_loss
+                    pe_exit_price = pe_ltp
 
                     pe_exit_datetime = row['datetime']
 
@@ -238,7 +238,7 @@ for index, row in path.iterrows():
 
                     ce_stop_loss_counter = 1
 
-                    ce_exit_price = ce_stop_loss
+                    ce_exit_price = ce_ltp
 
                     ce_exit_datetime = row['datetime']
 
