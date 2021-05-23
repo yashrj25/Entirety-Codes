@@ -19,6 +19,6 @@
 #
 
 ### Me:
-##### Instagram: https://www.instagram.com/yashrj25/
 ##### Twitter: https://twitter.com/yashrj25
 ##### LinkedIn: https://www.linkedin.com/in/yash-raj-jaiswal-38b3611a6/
+##### Instagram: https://www.instagram.com/yashrj25/
