@@ -22,3 +22,8 @@
 ##### Twitter: https://twitter.com/yashrj25
 ##### LinkedIn: https://www.linkedin.com/in/yash-raj-jaiswal-38b3611a6/
 ##### Instagram: https://www.instagram.com/yashrj25/
+
+#
+
+### For any request, send your message with "#request" in the telegram group: https://t.me/entiretydiscussion
+#### Example: #request please make a video on _____
