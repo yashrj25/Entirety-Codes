@@ -6,7 +6,7 @@
 ##### Fyers: https://fyers.in/?id=DY00182
 ##### Zerodha: https://zerodha.com/?c=ZG4424
 
-#### Me:
+### Me:
 ##### Twitter: https://twitter.com/yashrj25
 ##### Instagram: https://www.instagram.com/__entirety__/
 ##### Facebook: https://www.facebook.com/entiretytech
