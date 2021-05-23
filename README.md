@@ -10,10 +10,14 @@
 
 #
 
-### Me:
-##### Twitter: https://twitter.com/yashrj25
+### Entirety:
 ##### Instagram: https://www.instagram.com/__entirety__/
 ##### Facebook: https://www.facebook.com/entiretytech
 ##### Telegram (Channel): https://t.me/entiretyresearch
 ##### Telegram (Group): https://t.me/entiretydiscussion
+
+#
+
+### Me:
+##### Twitter: https://twitter.com/yashrj25
 ##### LinkedIn: https://www.linkedin.com/in/yash-raj-jaiswal-38b3611a6/
