@@ -1,4 +1,4 @@
-<img src="Entirety.png" width=165 height=165>
+<img src="Entirety.png" width=160 height=160>
 
 ### For any request, send your message with "#request" in the telegram group: https://t.me/entiretydiscussion
 ##### Example: #request please make a video on _____
