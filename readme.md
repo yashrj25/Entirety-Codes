@@ -1,6 +1,6 @@
 <img src="Entirety.png" width=160 height=160>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/abhijith_abcd?style=social)](https://twitter.com/intent/user?screen_name=yashrj25)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yashrj25?style=social)](https://twitter.com/intent/user?screen_name=yashrj25)
 [![Youtube](https://img.shields.io/youtube/views/EU3L4ziz3nk?style=social)](https://www.youtube.com/channel/UCOa0JEIQFfH7OF4KbAdS3pw/featured)
 
 ### For any request, send your message with "#request" in the telegram group: https://t.me/entiretydiscussion
