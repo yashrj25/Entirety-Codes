@@ -7,9 +7,7 @@
 
 ### Support the channel by opening an A/c using the following links:
 ##### CompositEdge: https://accounts.compositedge.com/dcob/#/login?source=B&id=42
-##### Aliceblue: https://app.aliceblueonline.com/OpenAccount.aspx?C=DEL338&C=DEL338
-##### Fyers: https://fyers.in/?id=DY00182
-##### Zerodha: https://zerodha.com/?c=ZG4424
+##### Fyers: https://partners.fyers.in/AP0899
 
 #
 
